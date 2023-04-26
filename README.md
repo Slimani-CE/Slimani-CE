@@ -49,8 +49,6 @@ I am a master's student in distributed systems and artificial intelligence. I am
 
 
  <p align="center">Watch my contribution graph being eaten by a Snake! 🐍</p>
- ![Watch my contribution graph being eaten by a Snake!]
- (https://github.com/Slimani-CE/Slimani-CE/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/Slimani-CE/Slimani-CE/blob/output/github-contribution-grid-snake.svg)
 </div>
