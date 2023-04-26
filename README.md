@@ -48,6 +48,6 @@ I am a master's student in distributed systems and artificial intelligence. I am
  ![Watch my contribution graph being eaten by a Snake!]
  (https://github.com/Slimani-CE/Slimani-CE/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Slimani-CE&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/Slimani-CE/Slimani-CE/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
