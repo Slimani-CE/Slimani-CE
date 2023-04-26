@@ -28,7 +28,7 @@ I am a master's student in distributed systems and artificial intelligence. I am
 ![](https://github-readme-stats.vercel.app/api?username=Slimani-CE&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div>
 
-<div style = "margin: 0 10px">
+<div align = "center" style = "margin: 0 10px">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Slimani-CE&theme=radical&hide_border=false)
 </div>
