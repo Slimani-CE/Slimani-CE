@@ -1,3 +1,5 @@
+<div class = "container" style = "width: 100%">
+
 # 💫 About Me:
 
 <div>
@@ -16,7 +18,7 @@ I am a master's student in distributed systems and artificial intelligence. I am
 
 
 # 📊 GitHub Stats:
-<div align = "center">
+<div align = "center" style = "width: 100%; display: flex; flex-direction: column">
 <div style = "display: flex; flex-direction: row;">
 
 <div style = "margin: 0 10px">
@@ -51,3 +53,5 @@ I am a master's student in distributed systems and artificial intelligence. I am
 ![Snake animation](https://github.com/Slimani-CE/Slimani-CE/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
