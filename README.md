@@ -20,7 +20,7 @@ I am a master's student in distributed systems and artificial intelligence. I am
 
 
 # 📊 GitHub Stats:
-<div align = "center" style = "width: 100%; display: flex; flex-direction: column">
+<div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
 <div style = "display: flex; flex-direction: row;">
 
 <div style = "margin: 0 10px">
