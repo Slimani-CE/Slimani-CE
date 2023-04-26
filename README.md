@@ -34,7 +34,7 @@ I am a master's student in distributed systems and artificial intelligence. I am
 </div>
 </div>
 
-<div align = "left" style = "margin: 0 10px">
+<div style = "margin: 0 10px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slimani-CE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
