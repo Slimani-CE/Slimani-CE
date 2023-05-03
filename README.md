@@ -4,7 +4,7 @@
 
 <div>
 <img width="35%" align="right" alt="Github" src="assets/geek.gif" />
-I am a master's student in distributed systems and artificial intelligence. I am passionate about AI and ML and have been learning machine learning techniques to apply in real-world projects. Along with that, I also have experience in software engineering, particularly in developing with Java using JavaFX and the Spring Boot framework. My expertise also includes developing distributed microservices and web services using SOAP, REST API, GraphQL, and gRPC. Additionally, I am proficient in web development using JS, PHP, CSS, and HTML.
+I am a master's student in distributed systems and artificial intelligence. I am passionate about AI and ML and have been learning machine learning techniques to apply in real-world projects. Along with that, I also have experience in software engineering, particularly in developing with Java using JavaFX and the Spring framework. My expertise also includes developing distributed microservices and web services using SOAP, REST API, GraphQL, and gRPC. Additionally, I am proficient in web development using JS, PHP, CSS, and HTML.
 
 </div>
 
