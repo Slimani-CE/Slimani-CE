@@ -1,6 +1,6 @@
 <div class = "container" style = "width: 100%">
 
-# 💫 About Me:
+# 👋 About Me:
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="assets/geek.gif" />
